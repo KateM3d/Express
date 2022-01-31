@@ -1,0 +1,25 @@
+{
+    "name": "express-pr",
+    "version": "1.0.0",
+    "description": "learning purposes",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/KateM3d/Express.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/KateM3d/Express/issues"
+    },
+    "homepage": "https://github.com/KateM3d/Express#readme",
+    "dependencies": {
+        "express": "^4.17.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
