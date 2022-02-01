@@ -3,8 +3,8 @@
 const express = require("express");
 const app = express();
 
-const people = require("./routes/people");
-const auth = require("./routes/auth");
+const people = require("../routes/people");
+const auth = require("../routes/auth");
 //static assests
 app.use(express.static("./methods-public"));
 // parse form data
